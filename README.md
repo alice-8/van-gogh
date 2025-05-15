@@ -1,5 +1,5 @@
 # Curl and Divergence with Van Gogh
-MVC Semester 2 Final Project 25' - Steven Strogatz Submission
+MVC Semester 2 Final Project 25' - Steven Strogatz MoMath Submission
 <br/>
 [Presentation](https://docs.google.com/presentation/d/1REEG_FsxADwE7hW_9pDuTjqxq-RdgCNZ/edit#slide=id.p1)
 <br/>
