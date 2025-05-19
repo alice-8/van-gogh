@@ -7,5 +7,5 @@ Alice Su
 <br/>
 <br/>
 # Abstract
-This project applies multivariable calculus to generate a dynamic vector field from Vincent Van Gogh’s self-portrait, using the concepts of curl and divergence. It is inspired by the visual turbulence behind his work, I mathematically simulate swirling and expanding vector behavior to explore revisiting famous artworks through math. It was created as a submission to the Steven Strogatz Prize, this project aims to communicate mathematical ideas in an intuitive and creative way, emphasizing not only the math behind Van Gogh’s art, but also using that math to animate and deepen the emotional and psychological tension present and behind his original work..
+This project applies multivariable calculus to generate a dynamic vector field from Vincent Van Gogh’s self-portrait by using the concepts of curl and divergence. It is inspired by the visual turbulence behind his work, I mathematically simulate swirling and expanding vector behavior to explore revisiting famous artworks through math. It was created as a submission to the Steven Strogatz Prize, this project aims to communicate mathematical ideas in an intuitive and creative way, emphasizing the math behind Van Gogh’s art.
 
