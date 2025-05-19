@@ -1,12 +1,11 @@
 # Curl and Divergence with Van Gogh
 MVC Semester 2 Final Project 25' - Steven Strogatz MoMath Submission
 <br/>
-[Presentation](https://docs.google.com/presentation/d/1REEG_FsxADwE7hW_9pDuTjqxq-RdgCNZ/edit#slide=id.p1)
-<br/>
-[Write-Up](https://docs.google.com/document/d/13cge0ILZmGBrSqPxgbCAKqD33RFXRAG6H5qO3oVlCSw/edit?tab=t.0)
+[Write-Up](https://drive.google.com/file/d/11fVSY4tXyIDXmUqFfzDXOggM0BW2Rb-V/view?usp=sharing)
 <br/>
 Alice Su
 <br/>
 <br/>
-# Overview
-////
+# Abstract
+This project applies multivariable calculus to generate a dynamic vector field from Vincent Van Gogh’s self-portrait, using the concepts of curl and divergence. It is inspired by the visual turbulence behind his work, I mathematically simulate swirling and expanding vector behavior to explore revisiting famous artworks through math. It was created as a submission to the Steven Strogatz Prize, this project aims to communicate mathematical ideas in an intuitive and creative way, emphasizing not only the math behind Van Gogh’s art, but also using that math to animate and deepen the emotional and psychological tension present and behind his original work..
+
