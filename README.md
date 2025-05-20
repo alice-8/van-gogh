@@ -1,7 +1,9 @@
 # Curl and Divergence with Van Gogh
 MVC Semester 2 Final Project 25' - Steven Strogatz MoMath Submission
 <br/>
-[Write-Up](https://drive.google.com/file/d/11fVSY4tXyIDXmUqFfzDXOggM0BW2Rb-V/view?usp=sharing)
+[Submission Write-Up](https://drive.google.com/file/d/11fVSY4tXyIDXmUqFfzDXOggM0BW2Rb-V/view?usp=sharing)
+<br/>
+[Project Paper](https://drive.google.com/file/d/1bsaFvSg3Ws-7iVLhN9w2tBBtxTm0IVu9/view?usp=sharing)
 <br/>
 Alice Su
 <br/>
